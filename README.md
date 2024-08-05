@@ -6,8 +6,8 @@ This project implements an AI-powered question answering system using Google's G
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ai-question-answering.git
-   cd ai-question-answering
+   git clone https://github.com/Adityaraj142857/ai-rag_eval.git
+   cd ai-rag_eval
    ```
 
 2. Create a virtual environment (optional but recommended):
